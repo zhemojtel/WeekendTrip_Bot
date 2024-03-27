@@ -1,5 +1,5 @@
 # WeekendTrip_Bot
-![WeekendTrip_Bot logo](https://github.com/zhemojtel/WeekendTrip_Bot/blob/main/assets/image001.png) 
+![WeekendTrip_Bot logo](https://github.com/zhemojtel/WeekendTrip_Bot/blob/main/images/logo_1.png) 
 
 Если вы хотите полете отдахнуть, но пока еще не определились куда,  то telegram-бот поможет вам в этом, проанализируя сайт [Openweathermap](https://openweathermap.org/) бот предоставит интересующую вас информацию о погоде , что поможет принять окончательное решение, стоит лететь или нет. Но а если вы уже определились, то telegram-бот проанализируя сайт [Aviasales](https://www.aviasales.by) и подберет  подходящие авиабилеты.
 Работает с API от [Aviasales](https://www.aviasales.by) и [Openweathermap](https://openweathermap.org/)
